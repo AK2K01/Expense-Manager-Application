@@ -3,3 +3,6 @@ An Android application that enables the user to manage his/her day to day expens
 
 ## User Log In Screen
 !['Log In'](logIn.png)
+
+## Home Screen Displayed After Successful Log In
+!['Home Screen'](homeScreen.png)
