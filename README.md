@@ -9,3 +9,6 @@ An Android application that enables the user to manage his/her day to day expens
 
 ## Side Bar
 !['Side Bar'](sideBar.png)
+
+## Buttons to add Income/Expenses
+!['Buttons'](buttons.png)
