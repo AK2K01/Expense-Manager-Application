@@ -18,3 +18,6 @@ An Android application that enables the user to manage his/her day to day expens
 
 ## Adding Expense
 !['Adding Expense'](addingExpense.png)
+
+## Adding Another Expense
+!['Adding Another Expense'](addingExpense2.png)
