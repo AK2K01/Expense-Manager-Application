@@ -21,3 +21,6 @@ An Android application that enables the user to manage his/her day to day expens
 
 ## Adding Another Expense
 !['Adding Another Expense'](addingExpense2.png)
+
+## Updated Home Screen After Adding Income/Expense Information
+!['Updated Home Screen'](updatedHome.png)
