@@ -25,5 +25,8 @@ An Android application that enables the user to manage his/her day to day expens
 ## Updated Home Screen After Adding Income/Expense Information
 !['Updated Home Screen'](updatedHome.png)
 
-## Before adding Income
+## Before Adding Income
 !['Before Income'](beforeIncome.png)
+
+## After Adding Income
+!['After Income'](afterIncome.png)
