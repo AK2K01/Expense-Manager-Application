@@ -36,3 +36,6 @@ An Android application that enables the user to manage his/her day to day expens
 
 ## After Adding Expenses
 !['After Expense'](afterExpense.png)
+
+## Making Updates to the Income
+!['Making Updates to Income'](updateIncome.png)
